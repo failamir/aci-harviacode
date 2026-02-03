@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "flyonui";
+@plugin "@iconify/tailwind4";
+@import "flyonui/variants.css";
+
+@source "flyonui/dist/index.js";
+
+/* Custom styles */
+@theme {
+    --font-family-sans: 'Inter', 'Helvetica Neue', sans-serif;
+}

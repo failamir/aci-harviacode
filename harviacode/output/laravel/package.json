@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@iconify-json/tabler": "^1.2.26",
+        "@iconify/tailwind4": "^1.2.1",
+        "@tailwindcss/vite": "^4.1.18",
+        "axios": "^1.1.2",
+        "flyonui": "^2.4.1",
+        "laravel-vite-plugin": "^2.1.0",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "tailwindcss": "^4.1.18",
+        "vite": "^7.3.1"
+    }
+}
